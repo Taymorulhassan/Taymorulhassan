@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Taimoor Ul Hassan 👋
+### Game Developer | Unity • C# • Systems & Prototyping
 
-<!--
-**Taymorulhassan/Taymorulhassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about creating playable experiences, gameplay systems, and polished prototypes.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Engines: Unity, Godot
+- Languages: C#, C++, GDScript
+- Tools: Git, Blender, Aseprite, Visual Studio, Rider
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Featured Projects
+- Coming Soon
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Taymorulhassan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taymorulhassan&layout=compact&theme=radical)
+
+## 📫 Connect
+taimoorology@gmail.com 
